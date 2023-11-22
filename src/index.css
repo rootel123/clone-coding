@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components {
+  .banbok {
+    @apply hover:cursor-pointer hover:underline;
+  }
+}
