@@ -1,10 +1,10 @@
-import Footer from "../components/Footer";
-import Mainbanner from "../components/Mainbanner";
-import Subannerthree from "../components/Subannerthree";
-import Subbannerfour from "../components/Subbannerfour";
-import Subbannerone from "../components/Subbannerone";
-import Subbannertwo from "../components/Subbannertwo";
-import Topmenu from "../components/Topmenu";
+import Footer from "../components/Footer.jsx";
+import Mainbanner from "../components/Mainbanner.jsx";
+import Subannerthree from "../components/Subannerthree.jsx";
+import Subbannerfour from "../components/Subbannerfour.jsx";
+import Subbannerone from "../components/Subbannerone.jsx";
+import Subbannertwo from "../components/Subbannertwo.jsx";
+import Topmenu from "../components/Topmenu.jsx";
 
 const Main = () => {
   return (

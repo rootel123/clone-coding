@@ -1,6 +1,6 @@
-import Footer from "../components/Footer";
-import RealtyPage from "../components/RealtyPage";
-import Td from "../components/Td";
+import Footer from "../components/Footer.jsx";
+import RealtyPage from "../components/RealtyPage.jsx";
+import Td from "../components/Td.jsx";
 
 const Realty = () => {
   return (

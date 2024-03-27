@@ -1,6 +1,6 @@
-import CarPage from "../components/CarPage";
-import Footer from "../components/Footer";
-import Te from "../components/Te";
+import CarPage from "../components/CarPage.jsx";
+import Footer from "../components/Footer.jsx";
+import Te from "../components/Te.jsx";
 
 const Car = () => {
   return (

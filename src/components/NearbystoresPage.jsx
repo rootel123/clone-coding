@@ -1,4 +1,4 @@
-import NearCard from "../components/NearCard";
+import NearCard from "../components/NearCard.jsx";
 
 const nearData = [
   {

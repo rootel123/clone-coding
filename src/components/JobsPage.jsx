@@ -1,4 +1,4 @@
-import JobCard from "../components/JobCard";
+import JobCard from "../components/JobCard.jsx";
 
 const jobData = [
   {

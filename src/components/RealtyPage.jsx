@@ -1,4 +1,4 @@
-import RealtyCard from "../components/RealtyCard";
+import RealtyCard from "../components/RealtyCard.jsx";
 
 const realtyData = [
   {

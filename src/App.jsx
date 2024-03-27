@@ -1,10 +1,10 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Main from "./pages/main";
-import Fleamarket from "./pages/fleamarket";
-import Nearbystores from "./pages/nearbystores";
-import Jobs from "./pages/jobs";
-import Realty from "./pages/realty";
-import Car from "./pages/car";
+import Main from "./pages/main.jsx";
+import Fleamarket from "./pages/fleamarket.jsx";
+import Nearbystores from "./pages/nearbystores.jsx";
+import Jobs from "./pages/jobs.jsx";
+import Realty from "./pages/realty.jsx";
+import Car from "./pages/car.jsx";
 
 const App = () => {
   return (

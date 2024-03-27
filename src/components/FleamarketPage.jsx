@@ -1,4 +1,4 @@
-import BannerCard from "../components/BannerCard";
+import BannerCard from "../components/BannerCard.jsx";
 
 const bannerData = [
   {
